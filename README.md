@@ -5,7 +5,7 @@ It provides basic CRUD APIs for both entities and demonstrates how relational da
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The system allows:
 
@@ -17,7 +17,7 @@ The system allows:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Python
 * Django
@@ -25,7 +25,7 @@ The system allows:
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. Clone the repository
 
@@ -68,7 +68,7 @@ python manage.py runserver
 
 ---
 
-## 🔗 API Endpoints
+## API Endpoints
 
 ### College APIs
 
@@ -94,7 +94,7 @@ python manage.py runserver
 
 ---
 
-## 🔍 Extra Features
+## Extra Features
 
 * Pagination using query params (`page`, `limit`)
 * Search students by name (`search`)
@@ -103,7 +103,7 @@ python manage.py runserver
 
 ---
 
-## 🧪 Testing
+## Testing
 
 APIs can be tested using Postman.
 
@@ -114,7 +114,7 @@ Make sure to:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 college_management/
@@ -133,7 +133,7 @@ college_management/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Akhilesh Bajaj
 BTech – Cloud Technology and Information Security
