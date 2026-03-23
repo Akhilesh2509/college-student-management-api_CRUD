@@ -30,7 +30,7 @@ The system allows:
 1. Clone the repository
 
 ```
-git clone https://github.com/Akhilesh2509/college-student-management-api_CRUD
+git clone https://github.com/Akhilesh2509/college-student-management-api_CRUD.git
 cd college_management
 ```
 
